@@ -1,0 +1,86 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+	font-size: 20px;
+
+
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#head
+{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+	font-size: 60px;
+	background-color: rgb(156, 195, 221);
+	fill-opacity: initial;
+	border: 2px;
+	border-style:solid;
+	border-color: black;
+	width: 80%;
+}
+#sign_in{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	border: 2px;
+	border-style:solid;
+	border-color: black;
+}
+.player_head{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+	font-size: 30px;
+}
+#main_word{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+	font-size: 60px;
+	background-color: rgb(156, 195, 221);
+	fill-opacity: initial;
+	border: 2px;
+	border-style:solid;
+	border-color: black;
+	width: 200%;
+	text-align: center;
+}
+.player_assign{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+	font-size: 30px;
+	background-color: white;
+	border: 2px;
+	border-style:solid;
+	border-color: black;
+}
